@@ -1,2 +1,0 @@
-whugintama.github.com
-=====================
