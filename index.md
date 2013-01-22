@@ -23,7 +23,7 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 
     
-##  Posts列表
+##  文章列表
 
 
 Here's a my "posts list".
